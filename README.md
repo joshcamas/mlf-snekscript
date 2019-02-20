@@ -4,7 +4,6 @@ A runtime python engine utilizing the Multi Language Format in Unity3D
 ### Requirements
 
 * [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
-
 * [MLF Interpretor](https://github.com/joshcamas/mlf-unity)
 
 ### About SnekScript
